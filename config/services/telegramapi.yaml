@@ -1,0 +1,4 @@
+parameters:
+  bot_name: "IndiTestTaskBot"
+  bot_token: "6178163295:AAGjmxBADwCaPCMtkq3vs0xeet4Av2hPvdk"
+  redirect_uri: "http://zawertzq.beget.tech/telegram/auth"

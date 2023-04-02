@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello MainController!{% endblock %}
+
+
+   
+
+{% block body %}
+<style>
+
+</style>
+Приветствую, {{ tgData.username }}
+{# {{ tgData.auth_date|format_datetime('Y:m:d') }} #}
+<br>
+Имя бота: {{ telegramData.botName }}
+<br>
+
+
+{% endblock %}
